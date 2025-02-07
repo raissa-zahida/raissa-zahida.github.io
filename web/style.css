@@ -1,5 +1,5 @@
 .hero {
-  background-color: #FFECEC;
+  background-color: #0802A3;
   color: #fff;
   padding: 50px 0;
 }
@@ -7,33 +7,60 @@
 .hero h1 {
   font-family: 'poppins', serif;
   font-size: 5rem;
-  color: #A15151;
+  color:#FF4B91;
 }
 
 .hero p {
   font-size: 1.2rem;
   font-style: poppins;
-  color: #806969;
+  color: #FFCD4B;
 }
 
-.hero .btn {
+.btn-grab-now {
   margin: 10px;
-  color: #A15151;
-}
+  color: #0e7161;
+  background-color: #FF4B91;
+  border-radius: 15px;
+  border:none;
+  padding:5px;
 
+}
+.btn-order-now{ 
+  color: #21AA93;
+  background-color: #FFCD4B;
+  border-radius:15px ;
+  border:none;
+  padding:5px;
+}
 .about {
   padding: 50px 0;
-  background-color: #f9f3f5;
+  background-color: #ffedae;
   text-align: center;
 }
 
 .about h2 {
   font-size: 2.5rem;
 }
-
+.about{
+  color: #21AA93;
+}
+.us{
+  color: #21AA93;
+}
+.learn-more{
+  color: #FF4B91;
+}
+.about-us{
+  color: #5437b7;
+}
+.text-about-us{
+  color: #FF4B91;
+  font-size: 1.2rem;
+  text-align: center;
+}
 .menu {
   padding: 50px 0;
-  background-color: #fef1f3;
+  background-color: #9b94ed;
   text-align: center;
 }
 
@@ -52,25 +79,7 @@
 .nav-link{
   color: #A15151;
 }
-.about{
-  color: #C0B3B3;
-}
-.us{
-  color: #C0B3B3;
-}
-.learn-more{
-  color: #C0B3B3;
-}
-.about-us{
-  color: #F0A0A0;
-}
-.text-about-us{
-  color: black;
-}
-.btn-order{
-  color:#ffffff;
-  background-color: #A15151;
-}
+
 .testimonial-card {
   background-color: #fbeeee; /* Warna latar belakang */
   border: none;
